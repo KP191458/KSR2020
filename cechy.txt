@@ -1,0 +1,12 @@
+1. Ilość słów kluczowych.
+2. Udział słowa/słów kluczowych w całym tekście.
+3. Ilość wystąpień danego słowa kluczowych - ilość wystąpień słowa kluczowego najczęściej.
+4. Ilość słów licząca 3 badź mniej liter (np. w USA popularne są skróty CIA, FBI, NSA).
+5. Ilość słów dłuższych niż 10 liter (pomimo że teksty są w języku angielskim, dla artukółów np. z Niemiec mogą występować nazwy własne których długość będzie dłuższa od od przeciętnych)
+6. Powtarzalność najbardziej popularnego słowa w tekście.
+7. Ważone słowa kluczowe (wyznaczyć słowa kluczowe -> nadać im wagi -> wziąć pod uwagę np. najwyższy centyl wag).
+8. Najczęściej powtarzane słowo kluczowe.
+9. Częstotliwość występowania słów kluczowych.
+
+10. 10%
+
